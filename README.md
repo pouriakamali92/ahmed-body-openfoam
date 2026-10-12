@@ -45,3 +45,21 @@ Alle vier Modelle lieferten plausible Vorhersagen. Die LES-Läufe zeigten tenden
 - Der Abgleich von Netzqualität, Zeitschritt und Rechenaufwand bei gleichzeitiger Einhaltung des Kriteriums für aufgelöste turbulente Energie war der zentrale Lernpunkt.
 
 Portfolio mit Abbildungen: <https://pouria-kamali.de/projekt-ahmedbody.php>
+
+## Abbildungen
+
+### Geometrie
+
+Ahmed-Körper in Ansys SpaceClaim (Maße nach Ahmed et al., 1984).
+
+![Ahmed-Körper in SpaceClaim](images/ahmed_geometrie.png)
+
+### Volumennetz
+
+Schnitt durch das Volumennetz um den Körper mit verfeinerter Grenzschicht (ParaView).
+
+![Netzschnitt um den Ahmed-Körper](images/ahmed_netz_schnitt.png)
+
+## Repository-Inhalt
+
+Dieses Repository dokumentiert Methodik und Ergebnisse. Case-Dateien, Rechendaten, der Praxisbericht sowie unternehmensinterne Arbeitsabläufe und Software-Einstellungen sind nicht enthalten.

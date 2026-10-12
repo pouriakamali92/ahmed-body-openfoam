@@ -1,0 +1,27 @@
+# Simulationsdaten und Rohdaten
+*.cas
+*.cas.h5
+*.dat
+*.dat.h5
+*.h5
+*.msh
+*.wbpj
+*.scdoc
+*.stp
+*.trn
+*.txt
+*.csv
+*.xlsx
+*_files/
+# Betriebssystem / Editor
+.DS_Store
+Thumbs.db
+*.x_t
+*.smd
+*.sms
+*.foam
+*.mp4
+*.docx
+*.analysis
+Allrun
+Allclean
